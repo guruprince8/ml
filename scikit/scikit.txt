@@ -19,3 +19,16 @@ Successfully installed joblib-1.3.2 scikit-learn-1.3.2 scipy-1.11.3 threadpoolct
 
 [notice] A new release of pip available: 22.3.1 -> 23.3.1
 [notice] To update, run: pip install --upgrade pip
+
+/* python -m pip show scikit-learn*/
+Name: scikit-learn
+Version: 1.3.2
+Summary: A set of python modules for machine learning and data mining
+Home-page: http://scikit-learn.org
+Author: 
+Author-email: 
+License: new BSD
+Location: /Users/gurubrahmanadamekambaram/PycharmProjects/pythonProject/venv/lib/python3.9/site-packages
+Requires: joblib, numpy, scipy, threadpoolctl
+Required-by: 
+
