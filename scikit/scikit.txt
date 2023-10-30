@@ -32,3 +32,74 @@ Location: /Users/gurubrahmanadamekambaram/PycharmProjects/pythonProject/venv/lib
 Requires: joblib, numpy, scipy, threadpoolctl
 Required-by: 
 
+/* python -m pip freeze */
+contourpy==1.1.1
+cycler==0.12.1
+fonttools==4.43.1
+importlib-resources==6.1.0
+joblib==1.3.2
+kiwisolver==1.4.5
+matplotlib==3.8.0
+numpy==1.26.1
+packaging==23.2
+pandas==2.1.2
+Pillow==10.1.0
+pyparsing==3.1.1
+python-dateutil==2.8.2
+pytz==2023.3.post1
+scikit-learn==1.3.2
+scipy==1.11.3
+six==1.16.0
+threadpoolctl==3.2.0
+tzdata==2023.3
+zipp==3.17.0
+
+/* python -c "import sklearn; sklearn.show_versions()" */
+
+System:
+    python: 3.9.6 (default, Aug 11 2023, 19:44:49)  [Clang 15.0.0 (clang-1500.0.40.1)]
+executable: /Users/gurubrahmanadamekambaram/PycharmProjects/pythonProject/venv/bin/python
+   machine: macOS-14.0-arm64-arm-64bit
+
+Python dependencies:
+      sklearn: 1.3.2
+          pip: 22.3.1
+   setuptools: 65.5.1
+        numpy: 1.26.1
+        scipy: 1.11.3
+       Cython: None
+       pandas: 2.1.2
+   matplotlib: 3.8.0
+       joblib: 1.3.2
+threadpoolctl: 3.2.0
+
+Built with OpenMP: True
+
+threadpoolctl info:
+       user_api: openmp
+   internal_api: openmp
+    num_threads: 10
+         prefix: libomp
+       filepath: /Users/gurubrahmanadamekambaram/PycharmProjects/pythonProject/venv/lib/python3.9/site-packages/sklearn/.dylibs/libomp.dylib
+        version: None
+
+       user_api: blas
+   internal_api: openblas
+    num_threads: 10
+         prefix: libopenblas
+       filepath: /Users/gurubrahmanadamekambaram/PycharmProjects/pythonProject/venv/lib/python3.9/site-packages/numpy/.dylibs/libopenblas64_.0.dylib
+        version: 0.3.23.dev
+threading_layer: pthreads
+   architecture: armv8
+
+       user_api: blas
+   internal_api: openblas
+    num_threads: 10
+         prefix: libopenblas
+       filepath: /Users/gurubrahmanadamekambaram/PycharmProjects/pythonProject/venv/lib/python3.9/site-packages/scipy/.dylibs/libopenblas.0.dylib
+        version: 0.3.21.dev
+threading_layer: pthreads
+   architecture: armv8
+
+
+
