@@ -1,3 +1,4 @@
 /* Links */
 https://pypi.org/project/gensim/
 https://radimrehurek.com/gensim/auto_examples/core/run_core_concepts.html#sphx-glr-auto-examples-core-run-core-concepts-py
+https://docs.python.org/3/library/stdtypes.html
