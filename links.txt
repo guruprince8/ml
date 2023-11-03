@@ -10,3 +10,6 @@ https://pandas.pydata.org/docs/reference/index.html
 
 /* Free Sample Data */
 https://www.briandunning.com/sample-data/
+
+/* ML Tutorial */
+https://learn.interviewkickstart.com/course/machine-learning-interview-masterclass?utm_source=google&utm_medium=ppc&utm_campaign=Search_NB_Course_Domain_NonInt_PST__14385366660&utm_content=131815651916__c&utm_term=ai%20ml%20jobs%20salary__572698575317&hsa_acc=3597576749&hsa_cam=14385366660&hsa_grp=131815651916&hsa_ad=572698575317&hsa_src=g&hsa_tgt=aud-1533307472301:kwd-1433834772403&hsa_kw=ai%20ml%20jobs%20salary&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad=1&gclid=EAIaIQobChMIiaaqxr-mggMVWN7ICh3ieAQPEAAYASAAEgLNcPD_BwE#Interview-Prep-Guide
